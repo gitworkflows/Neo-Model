@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Advanced Playground",
+  "description": "An interactive web application to explore the capabilities of a versatile, multi-modal AI model. Engage in dialogue, generate code, summarize documents, analyze images, and solve mathematical problems.",
+  "requestFramePermissions": []
+}
